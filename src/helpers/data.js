@@ -30,9 +30,9 @@ export const data = [
     statistics: ["439 gol", "204 assist", "11 Kupa"],
   },
   {
-    name: "Hakeem Olajuwon",
-    img: "https://cdn.artphotolimited.com/images/60913d60bd40b85323893a87/1000x1000/hakeem-olajuwon-von-den-houston-rockets.jpg",
-    statistics: ["352 gol", "102 assist", "11 Kupa"],
+    name: "Ronaldinho",
+    img: "https://www.yalispor.com.tr/minio-url/blog/ronaldinhoo_6166d35b42897.jpg",
+    statistics: ["197 gol", "163 assist", "6 Kupa"],
   },
   {
     name: "Shaquille O'Neal",
