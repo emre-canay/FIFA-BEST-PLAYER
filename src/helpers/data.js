@@ -35,9 +35,9 @@ export const data = [
     statistics: ["197 gol", "163 assist", "6 Kupa"],
   },
   {
-    name: "Shaquille O'Neal",
-    img: "https://staticg.sportskeeda.com/editor/2018/10/6bb16-15398694878129-800.jpg",
-    statistics: ["352 gol", "102 assist", "11 Kupa"],
+    name: "Roberto Carlos",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTkLxh5770eQGvTU-ebWJJf08dZ5XMP8y-RH7MsPJqWsrqI1JQxbYSLhtobnxKNlbpj_c&usqp=CAU",
+    statistics: ["64 gol", "84 assist", "11 Kupa"],
   },
   {
     name: "Scottie Pippen",
