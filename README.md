@@ -1,6 +1,8 @@
 <p>Clarusway<img align="right"
   src="https://secure.meetupstatic.com/photos/event/3/1/b/9/600_488352729.jpeg"  width="15px"></p>
 
+![gif](./public/SASS%20Project%20.gif)
+
 <br>
 
 # Project-002: NBA Legends App (RP-02)
