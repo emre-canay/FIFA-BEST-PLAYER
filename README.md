@@ -63,7 +63,7 @@ Build a fifa Legends App using ReactJS.
 
 - improve coding skills within HTML & CSS & JS & ReactJS.
 
-- use git commands (push, pull, commit, add etc.) and Github as Version Control System.
+- Use git commands (push, pull, commit, add etc.) and Github as Version Control System.
 
 ## Steps to Solution
 
