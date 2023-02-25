@@ -88,6 +88,6 @@ You can use any of these sites for deployment
 - https://render.com/
 - https://app.cyclic.sh/
 
-- You can add additional functionalities to your app.
+- You can add additional functionalities to your App.
 
 **<p align="center">&#9786; Happy Coding &#9997;</p>**
