@@ -43,7 +43,7 @@ SOLUTION
 
 ## Expected Outcome
 
-<!-- ![Project 002 Snapshot](nba-legends.gif) -->
+<!-- ![Project 002 Snapshot](fifa-legends.gif) -->
 
 ## Objective
 
