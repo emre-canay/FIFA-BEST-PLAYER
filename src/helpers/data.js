@@ -40,23 +40,23 @@ export const data = [
     statistics: ["64 gol", "84 assist", "11 Kupa"],
   },
   {
-    name: "Scottie Pippen",
-    img: "https://basketballforever.com/wp-content/uploads/2020/04/Scottie-Pippen-Chicago-Bulls.jpg",
-    statistics: ["352 gol", "102 assist", "11 Kupa"],
+    name: "Zinédine Zidane",
+    img: "https://img.redbull.com/images/c_crop,x_486,y_0,h_2225,w_1780/c_fill,w_400,h_540/q_auto:low,f_auto/redbullcom/2016/12/01/1331832289874_2/zinedine-zidane",
+    statistics: ["125 gol", "139 assist", "11 Kupa"],
   },
   {
     name: "Patrick Ewing",
-    img: "https://cdn.britannica.com/37/231237-050-0CB78D66/Patrick-Ewing-New-York-Knicks-1986.jpg",
+    img: "https://cdn.britanni",
     statistics: ["352 gol", "102 assist", "11 Kupa"],
   },
   {
     name: "Kobe Bryant",
-    img: "https://upload.wikimedia.org/wikipedia/commons/9/96/Kobe_Bryant_8.jpg",
+    img: "https://upload.wikimedia.org/wikipedia/commonspg",
     statistics: ["352 gol", "102 assist", "11 Kupa"],
   },
   {
     name: "Charles Barkley",
-    img: "https://freshairarchive.org/sites/default/files/styles/square_800/public/2021-08/CharlesBarkley.jpg?itok=lkOGUQ2t",
+    img: "https://freshairarchive.org/sites/default/files/styic/2021-08/CharlesBarkley.jpg?itok=lkOGUQ2t",
     statistics: ["352 gol", "102 assist", "11 Kupa"],
   },
 ];
