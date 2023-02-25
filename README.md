@@ -18,7 +18,7 @@ Project aims to create a Languages Cards App.
 ## Project Skeleton
 
 ```
-002-NBA Legends(folder)
+002-FIFA Legends(folder)
 |
 |----readme.md         # Given to the students (Definition of the project)
 SOLUTION
@@ -32,7 +32,7 @@ SOLUTION
 │    ├── helper
 │    │       └── data.js
 │    ├── assets.js
-│    │       └── [images]
+│    │       └── [images]s
 │    ├── App.js
 │    ├── App.css
 │    ├── index.js
@@ -69,7 +69,7 @@ Build a fifa Legends App using ReactJS.
 
 - Step 1: Create React App using `npx create-react-app fifa-legends`
 
-- Step 2: Build NBA Legends app using [data.js](data.js), images in [assets](./assets/) folder.
+- Step 2: Build fifa Legends app using [data.js](data.js), images in [assets](./assets/) folder.
 
 - Step 4: Push your application into your own public repo on Github
 
