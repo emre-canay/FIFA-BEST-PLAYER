@@ -45,18 +45,18 @@ export const data = [
     statistics: ["125 gol", "139 assist", "11 Kupa"],
   },
   {
-    name: "Patrick Ewing",
-    img: "https://cdn.britanni",
-    statistics: ["352 gol", "102 assist", "11 Kupa"],
+    name: "Thierry Henry",
+    img: "https://tmssl.akamaized.net/images/foto/galerie/thierry-henry-1417524348-3352.jpg?lm=1483605830",
+    statistics: ["360 gol", "177 assist", "16 Kupa"],
   },
   {
-    name: "Kobe Bryant",
-    img: "https://upload.wikimedia.org/wikipedia/commonspg",
-    statistics: ["352 gol", "102 assist", "11 Kupa"],
+    name: "Roberto Baggio",
+    img: "https://2.bp.blogspot.com/-YkuTBzEM6wI/VOHgBAfeJPI/AAAAAAAAbN0/rB1bRQak5vM/s1600/Roberto_Baggio_copyright_thehardtackle_com.jpg",
+    statistics: ["278 gol", "155 assist", "6 Kupa"],
   },
   {
-    name: "Charles Barkley",
-    img: "https://freshairarchive.org/sites/default/files/styic/2021-08/CharlesBarkley.jpg?itok=lkOGUQ2t",
-    statistics: ["352 gol", "102 assist", "11 Kupa"],
+    name: "Nicolas Anelka",
+    img: "https://i.pinimg.com/originals/a8/a7/d6/a8a7d618a1fb4d5ce011f0bd7e3b9d1a.jpg",
+    statistics: ["209 gol", "94 assist", "6 Kupa"],
   },
 ];
