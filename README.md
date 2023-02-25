@@ -1,5 +1,5 @@
-<p>Clarusway<img align="right"
-  src="https://secure.meetupstatic.com/photos/event/3/1/b/9/600_488352729.jpeg"  width="15px"></p>
+<p>CANAY<img align="right"
+  src=""  width="15px"></p>
 
 ![gif](./public/SASS%20Project%20.gif)
 
@@ -43,11 +43,11 @@ SOLUTION
 
 ## Expected Outcome
 
-![Project 002 Snapshot](nba-legends.gif)
+<!-- ![Project 002 Snapshot](nba-legends.gif) -->
 
 ## Objective
 
-Build a NBA Legends App using ReactJS.
+Build a fifa Legends App using ReactJS.
 
 ### At the end of the project, following topics are to be covered;
 
@@ -67,7 +67,7 @@ Build a NBA Legends App using ReactJS.
 
 ## Steps to Solution
 
-- Step 1: Create React App using `npx create-react-app nba-legends`
+- Step 1: Create React App using `npx create-react-app fifa-legends`
 
 - Step 2: Build NBA Legends app using [data.js](data.js), images in [assets](./assets/) folder.
 
