@@ -18,7 +18,7 @@ Project aims to create a Languages Cards App.
 ## Project Skeleton
 
 ```
-002-FIFA Legends(folder)
+002-FIFA Legends (folder)
 |
 |----readme.md         # Given to the students (Definition of the project)
 SOLUTION
