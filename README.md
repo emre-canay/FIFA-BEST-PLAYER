@@ -57,7 +57,7 @@ Build a fifa Legends App using ReactJS.
 
 - JS
 
-- ReactJS
+- REACT JS
 
 ### At the end of the project, students will be able to;
 
